@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ifeobi and I'm from Nigeria
 - 👀 I’m a lawyer transitioning into the tech space. So, I am open to truckloads of advice.
-- 🌱 I’ve learned and still learning HTML, CSS, JS and ReactJs.
+- 🌱 I’ve learned and I'm still learning HTML, CSS, JS and ReactJs.
 - 💞️ I’m looking to collaborate on any project at all that fits into what I have learned or what can expand my knowledge.
 - 📫 How to reach me ... ifeobijofor1@gmail.com | Twitter: @obiIsACoder | +2347088366937
 
