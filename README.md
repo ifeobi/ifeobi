@@ -2,7 +2,7 @@
 
 Senior Full-Stack Engineer with DevOps and CI/CD ownership. Based in Abuja, Nigeria, and open to fully remote engineering roles.
 
-I have 5 years of professional software experience as a rounded headline, with my first engineering role beginning in January 2022. I build TypeScript systems across backend services, product interfaces, cloud delivery, payments, and AI workflows.
+I have 5 years of professional software experience, with my first engineering role beginning in January 2022. I build TypeScript systems across backend services, product interfaces, cloud delivery, payments, and AI workflows.
 
 ## Current work
 
